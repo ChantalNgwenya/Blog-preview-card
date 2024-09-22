@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Chantal Ngwenya]([https://github.com/ChantalNgwenya](https://github.com/ChantalNgwenya/Blog-preview-card))
+- Solution URL: [Chantal Ngwenya](https://github.com/ChantalNgwenya/Blog-preview-card)
 - Live Site URL: [Chantal's live site](https://blog-preview-card-kappa-seven.vercel.app/)
 
 ## My process
