@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Chantal Ngwenya](https://github.com/ChantalNgwenya)
-- Live Site URL: [Chantal's live site](https://vercel.com/chantalngwenyas-projects/qr-code-card-component)
+- Solution URL: [Chantal Ngwenya]([https://github.com/ChantalNgwenya](https://github.com/ChantalNgwenya/Blog-preview-card))
+- Live Site URL: [Chantal's live site](https://blog-preview-card-kappa-seven.vercel.app/)
 
 ## My process
 
@@ -103,7 +103,7 @@ To also play arond css properties.
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yChantalNgwenya)
-- Live Site URL: [Chantal's live site](https://vercel.com/chantalngwenyas-projects/qr-code-card-component)
+- Live Site URL: [Chantal's live site](https://blog-preview-card-kappa-seven.vercel.app/)
 
 
 ## Acknowledgments
